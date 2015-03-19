@@ -39,6 +39,18 @@ show tables like 'channel%';
 ```
 
 
+#### 查询
+
+1. count(*)
+
+```
+select count(*) from channel;
+```
+
+
+
+
+
 
 
 #### 显示版本
