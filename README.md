@@ -53,7 +53,11 @@ select count(*) from channel;
 show columns from channel;
 ```
 
+3、显示指定表的创建语句
 
+```
+show create table channel;
+```
 
 
 
