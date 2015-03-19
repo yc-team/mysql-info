@@ -47,6 +47,12 @@ show tables like 'channel%';
 select count(*) from channel;
 ```
 
+2. 显示指定表的列
+
+```
+show columns from channel;
+```
+
 
 
 
