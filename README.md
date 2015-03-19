@@ -41,13 +41,13 @@ show tables like 'channel%';
 
 #### 查询
 
-1. count(*)
+1、 count(*)
 
 ```
 select count(*) from channel;
 ```
 
-2. 显示指定表的列
+2、 显示指定表的列
 
 ```
 show columns from channel;
