@@ -77,3 +77,10 @@ show now();
 ```
 select 2+2;
 ```
+
+
+
+
+## 扩展阅读：
+
+* [MySQL show的实际操作用法](http://database.51cto.com/art/201005/202213.htm)
