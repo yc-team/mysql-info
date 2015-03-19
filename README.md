@@ -17,3 +17,17 @@ exit
 ```
 show databases;
 ```
+
+
+#### 显示版本
+
+```
+show version();
+```
+
+
+#### 显示当前时间
+
+```
+show now();
+```
